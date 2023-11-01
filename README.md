@@ -1,4 +1,4 @@
 # teerex-store
-Instll NPM
+Install NPM
 npm i
 then npm start
